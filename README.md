@@ -1,2 +1,4 @@
 # ImageMan
- testing c++ package dependency management and OpenCV
+ Testing c++ package dependency management and OpenCV
+
+ Using Conan + CMake
